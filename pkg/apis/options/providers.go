@@ -102,6 +102,9 @@ const (
 	// FacebookProvider is the provider type for Facebook
 	FacebookProvider ProviderType = "facebook"
 
+	// RBHubProvider
+	RBHubProvider ProviderType = "rbhub"
+
 	// GitHubProvider is the provider type for GitHub
 	GitHubProvider ProviderType = "github"
 
